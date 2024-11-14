@@ -4,7 +4,7 @@ This repository contains Colab notebooks showcasing machine learning tasks using
 
 ## Table of Contents
 - [TimeGPT](#timegpt)
-  - [Multivariate & Long Horizon Forecasting]([#multivariate--long-horizon-forecasting](https://colab.research.google.com/drive/182RoYBLd4BXIr4Z1PcmVqJjcUAuwi65E?usp=sharing))
+  - [Multivariate & Long Horizon Forecasting](https://colab.research.google.com/drive/182RoYBLd4BXIr4Z1PcmVqJjcUAuwi65E?usp=sharing)
   - [Fine-tuning with Custom Data](#fine-tuning-with-custom-data)
   - [Anomaly Detection](#anomaly-detection)
   - [Energy Forecasting](#energy-forecasting)
