@@ -5,15 +5,15 @@ This repository contains Colab notebooks showcasing machine learning tasks using
 ## Table of Contents
 - [TimeGPT](#timegpt)
   - [Multivariate & Long Horizon Forecasting](https://colab.research.google.com/drive/182RoYBLd4BXIr4Z1PcmVqJjcUAuwi65E?usp=sharing)
-  - [Fine-tuning with Custom Data](#fine-tuning-with-custom-data)
-  - [Anomaly Detection](#anomaly-detection)
-  - [Energy Forecasting](#energy-forecasting)
-  - [Bitcoin Price Prediction](#bitcoin-price-prediction)
+  - [Fine-tuning with Custom Data](https://colab.research.google.com/drive/1tc0EVxI5pvxUAFyzj0ePfwglAv57uBeu?usp=sharing)
+  - [Anomaly Detection](https://colab.research.google.com/drive/1FmoMB8MA8lhysqDzzk_05T7lT-PlNJoY?usp=sharing)
+  - [Energy Forecasting](https://colab.research.google.com/drive/1WVzOPRIyMsQNXOLv3dRxQ90ye8oRBKPr?usp=sharing)
+  - [Bitcoin Price Prediction](https://colab.research.google.com/drive/1DRluSFlycF7p4uIdkJdQCuDOwe3WO6_j?usp=sharing)
 - [Tabular](#tabular)
-  - [Synthetic Data Generation](#synthetic-data-generation)
-  - [Zero-shot Inference](#zero-shot-inference)
+  - [Synthetic Data Generation](https://colab.research.google.com/drive/1saC5K4q5HDbqjS2YDUc7coWqThuI9hc4?usp=sharing)
+  - [Zero-shot Inference](https://colab.research.google.com/drive/14FORPh5pcITRvnh-FjTCKUFdz-p6K7Xn?usp=sharing)
 - [RDL and RelBench](#rdl-and-relbench)
-  - [GNN-based Model Training for Tabular Prediction](#gnn-based-model-training-for-tabular-prediction)
+  - [GNN-based Model Training for Tabular Prediction](https://colab.research.google.com/drive/1mkrDN7Gy71jWOdndiGF9728P3D55sbUH?usp=sharing)
 
 ---
 
